@@ -1,0 +1,6 @@
+{
+  "platformName": "Android",
+  "appium:app": "/Users/manjunathb/Desktop/Mobile_Framework_Sample/apps/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk",
+  "appium:automationName": "UiAutomator2",
+  "appium:appWaitActivity": "com.swaglabsmobileapp.MainActivity"
+}

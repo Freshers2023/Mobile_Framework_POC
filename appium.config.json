@@ -1,0 +1,8 @@
+{
+  "server": {
+    "use-plugins": [
+      "my-plugin",
+      "some-other-plugin"
+    ]
+  }
+}
